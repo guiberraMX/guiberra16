@@ -141,6 +141,10 @@ ul, ol, dl {list-style-position: outside;}
     letter-spacing: -1px !important;
 }
 
+.alt-font-book li a{
+    font-family: "Bungee", cursive !important;
+}
+
 h1, h2, h3, h4, h5, h6 { text-transform: uppercase; margin:0; padding:0; color: #000; }
 h1 { font-size:45px; line-height: 45px; line-height: 50px}
 h2 { font-size:40px; line-height:45px}
@@ -1438,7 +1442,7 @@ input.no-border, input.no-border:focus, select.no-border, select.no-border:focus
 ====================================== */
 
 /* quote - style 1 */
-.quote-style1:before { content: "“"; display: block; position: absolute; font-size: 200px; left: 0; top: 64px; color: #ef106e}
+.quote-style1:before { content: "“"; display: block; position: absolute; font-size: 200px; left: 0; top: 64px; color: #e51137;}
 .quote-style1 {padding-left: 70px; display: block}
 
 /* quote - style 2 */
