@@ -975,7 +975,7 @@ ul.portfolio-filter-tab-style-5 { border-bottom: none;}
 .portfolio-filter-tab-style-5 li:first-child {margin:0 !important } 
 .portfolio-filter-tab-style-5 li a {border: none !important; background: transparent !important; padding: 10px 21px 10px 0; border-radius:0; color: #9b9b9b}
 .portfolio-filter-tab-style-5 li a:hover {color: #000}
-.portfolio-filter-tab-style-5 li.active a:before {border-bottom: 1px solid #ef106e; content: ""; width: 100%; position: absolute; z-index: -1; left: 0; top: 18px; color: #000 }
+.portfolio-filter-tab-style-5 li.active a:before {border-bottom: 0px solid #ef106e; content: ""; width: 100%; position: absolute; z-index: -1; left: 0; top: 18px; color: #000; font-weight: 700;}
 .portfolio-filter-tab-style-5 li.active a {padding-left: 15px; color: #000}
 
 /* portfolio filter tab - style 6 */
