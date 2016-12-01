@@ -328,6 +328,12 @@
     .personal .container { width: 750px !important;}
 }
 @media (max-width: 1050px) {
+
+
+   
+
+
+
     /* work */
     .grid-style1 .grid figcaption h3 {font-size: 14px; line-height: 20px;}
     .grid-style2 .grid figcaption {padding: 17px 20px;}
@@ -730,6 +736,9 @@
 
 @media (max-width: 767px) {
 
+
+
+
     .xs-center-col{ float:none !important; margin-left:auto !important; margin-right:auto !important}
     
     /* border */
@@ -1118,6 +1127,10 @@
 
 @media (max-width: 480px) {
     /* blog */
+
+
+
+
     .blog-post-style1 article:hover .post-details {padding-left: 12px;}
     .blog-post-style2 .post-details span a { font-size: 11px;}
     .blog-post-style2 .post-details { padding: 15px;}
@@ -1190,6 +1203,14 @@
 }
 
 @media (max-width: 320px) {
+
+           .hey2{
+    font-family: 'Bungee', cursive;
+    font-size: 55px !important;
+    line-height: 77px !important;
+}
+
+
     
     /* pull navigation */
     .menu-wrap {width: 100%; left: 350px}
@@ -1200,6 +1221,16 @@
     .attending-main .img-border-medium {height: 430px;}
 }
  @media only screen  and (min-width : 360px) and (max-width : 640px) { 
+
+           .hey2{
+    font-family: 'Bungee', cursive;
+    font-size: 55px !important;
+    line-height: 77px !important;
+}
+
+
+
+
      .coming-soon-bg, .coming-soon-bg .slider-text-middle-main {min-height: 550px !important}
      .min-height-image .full-screen { min-height: 510px !important;}
      .display-none-minwidth {display: none !important}
