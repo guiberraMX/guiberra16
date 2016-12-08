@@ -145,6 +145,11 @@ ul, ol, dl {list-style-position: outside;}
     font-family: "Bungee", cursive !important;
 }
 
+.carreraalpha{
+    margin-top: 90px !important;
+    padding-top: 0px !important;
+}
+
 h1, h2, h3, h4, h5, h6 { text-transform: uppercase; margin:0; padding:0; color: #000; }
 h1 { font-size:45px; line-height: 45px; line-height: 50px}
 h2 { font-size:40px; line-height:45px}
