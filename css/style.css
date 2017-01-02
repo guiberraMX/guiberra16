@@ -183,7 +183,7 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .text-medium{ font-size:14px !important; line-height:24px !important;}
 .text-large { font-size: 19px !important; line-height: 22px !important; font-weight: 700 !important; }
 .text-extra-large { font-size: 18px !important; line-height: 27px !important;  }
-.title-small{ font-size:20px !important; line-height:30px !important;}
+.title-small{ font-size:16px !important; line-height:19px !important;}
 .title-medium{ font-size:24px !important; line-height:28px !important;}
 .title-large{ font-size:28px !important; line-height:34px !important;}
 .title-extra-large{ font-size:35px !important; line-height:37px !important;}
@@ -1455,7 +1455,7 @@ input.no-border, input.no-border:focus, select.no-border, select.no-border:focus
 ====================================== */
 
 /* quote - style 1 */
-.quote-style1:before { content: "“"; display: block; position: absolute; font-size: 200px; left: 0; top: 64px; color: #e51137;}
+.quote-style1:before { content: "“"; display: block; position: absolute; margin-top: 36px !important; font-size: 200px; left: 0; top: 64px; color: #e51137;}
 .quote-style1 {padding-left: 70px; display: block}
 
 /* quote - style 2 */
