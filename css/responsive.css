@@ -1123,13 +1123,25 @@
 
     .button-bg-area .btn{display: table; margin: 0 auto 25px;}
     
+
+    .navbar-header a img{
+    width: 50px !important; 
+    margin-left: -9px !important;
+    margin-top: -5px !important;
+}
+
+
 }
 
 @media (max-width: 480px) {
     /* blog */
 
 
-
+.navbar-header a img{
+    width: 50px !important; 
+    margin-left: -9px !important;
+    margin-top: -5px !important;
+}
 
     .blog-post-style1 article:hover .post-details {padding-left: 12px;}
     .blog-post-style2 .post-details span a { font-size: 11px;}
@@ -1178,7 +1190,7 @@
     .attending-main { height: 510px;} 
     .attending-main .img-border-medium {height: 480px;}
     .center-logo-header .navbar-brand img {max-width: 245px; top: -14px;}
-    
+    .navbar-brand img{max-width: 30px !important;}
     
     /* travel */
     .ajax-popup-title {min-height: 400px !important;}
@@ -1200,6 +1212,15 @@
     .glyphs .box1 span{margin: 0 auto; display: block; text-align: center;}
     .btn-group-large .button-desc{font-size: 16px!important; padding-top: 0; padding-bottom: 0;}
     .btn-group-large span{font-size: 12px;}
+
+
+    .navbar-header a img{
+    width: 50px !important; 
+    margin-left: -9px !important;
+    margin-top: -5px !important;
+}
+
+
 }
 
 @media (max-width: 320px) {
@@ -1210,6 +1231,18 @@
     line-height: 77px !important;
 }
 
+
+
+
+
+
+
+
+.navbar-header a img{
+    width: 50px !important; 
+    margin-left: -9px !important;
+    margin-top: -5px !important;
+}
 
     
     /* pull navigation */
@@ -1224,8 +1257,14 @@
 
            .hey2{
     font-family: 'Bungee', cursive;
-    font-size: 55px !important;
+    font-size: 5px !important;
     line-height: 77px !important;
+}
+
+.navbar-header a img{
+    width: 50px !important; 
+    margin-left: -9px !important;
+    margin-top: -5px !important;
 }
 
 

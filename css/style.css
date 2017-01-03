@@ -158,6 +158,8 @@ ul, ol, dl {list-style-position: outside;}
     background-color: #282727;
 }
 
+
+
 h1, h2, h3, h4, h5, h6 { text-transform: uppercase; margin:0; padding:0; color: #000; }
 h1 { font-size:45px; line-height: 45px; line-height: 50px}
 h2 { font-size:40px; line-height:45px}
@@ -838,7 +840,7 @@ nav.shrink .container {height: 60px;}
 .navbar-nav a:focus {color: #fff !important; background: transparent !important}
 .nav li {margin: 15px 20px}
 .sticky-wrapper {position: absolute; top: 0; width: 100%}
-.navbar-brand img {position: relative; top: -5px; z-index: 2; max-width: 156px;}
+.navbar-brand img {position: relative; top: -5px; z-index: 2; max-width: 90px; margin-left: 29px !important;}
 nav.shrink {background: rgba(0,0,0,1); border: none !important}
 .transparent-header.shrink {background: rgba(0,0,0,.7); border: none !important}
 nav.navbar-height{  height: 100px !important;}
@@ -999,7 +1001,7 @@ ul.portfolio-filter-tab-style-5 { border-bottom: none;}
 .portfolio-filter-tab-style-5 li a {border: none !important; background: transparent !important; padding: 10px 21px 10px 0; border-radius:0; color: #9b9b9b}
 .portfolio-filter-tab-style-5 li a:hover {color: #000}
 .portfolio-filter-tab-style-5 li.active a:before {border-bottom: 0px solid #ef106e; content: ""; width: 100%; position: absolute; z-index: -1; left: 0; top: 18px; color: #000; font-weight: 700;}
-.portfolio-filter-tab-style-5 li.active a {padding-left: 15px; color: #000}
+.portfolio-filter-tab-style-5 li.active a {color: #000;}
 
 /* portfolio filter tab - style 6 */
 ul.portfolio-filter-tab-style-6 { margin: 220px 50px 0 0;}
