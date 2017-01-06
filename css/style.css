@@ -63,6 +63,22 @@ Table of contents
     Reset
 ====================================== */
 
+
+
+
+
+
+
+.animation
+
+
+
+
+
+
+
+
+
 body{ font-family: 'Poppins', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:15px; color:#626262; line-height:23px; letter-spacing: -1px }
 a, a:active{ color: #626262; text-decoration: none; }
 a:hover, a:focus{ color: #272727;  text-decoration: none}
@@ -122,6 +138,7 @@ ul, ol, dl {list-style-position: outside;}
 
 .hey small{
     font-size: 36px !important;
+
 }
 
 .hey2{
@@ -158,77 +175,12 @@ ul, ol, dl {list-style-position: outside;}
     background-color: #282727;
 }
 
-#guiberra{
-
-    margin-top: 13.5rem;
-  color: #999;
-  font: 400 16px/1.5 exo, ubuntu, "segoe ui", helvetica, arial, sans-serif;
-  text-align: center;
-  /* img size is 50x50 */
-  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAABnSURBVHja7M5RDYAwDEXRDgmvEocnlrQS2SwUFST9uEfBGWs9c97nbGtDcquqiKhOImLs/UpuzVzWEi1atGjRokWLFi1atGjRokWLFi1atGjRokWLFi1af7Ukz8xWp8z8AAAA//8DAJ4LoEAAlL1nAAAAAElFTkSuQmCC") repeat 0 0;
-  -webkit-animation: bg-scrolling-reverse .92s infinite;
-  /* Safari 4+ */
-  -moz-animation: bg-scrolling-reverse .92s infinite;
-  /* Fx 5+ */
-  -o-animation: bg-scrolling-reverse .92s infinite;
-  /* Opera 12+ */
-  animation: bg-scrolling-reverse .92s infinite;
-  /* IE 10+ */
-  -webkit-animation-timing-function: linear;
-  -moz-animation-timing-function: linear;
-  -o-animation-timing-function: linear;
-  animation-timing-function: linear;
-
-
-   
-
+.bienvenida small{
+  color: red;
+  line-height: 10px !important;
 }
 
 
-
- @import url(http://fonts.googleapis.com/css?family=Exo:100);
-/* Background data (Original source: http://subtlepatterns.com/grid-me/) */
-/* Animations */
-@-webkit-keyframes bg-scrolling-reverse {
-  100% {
-    background-position: 50px 50px;
-  }
-}
-@-moz-keyframes bg-scrolling-reverse {
-  100% {
-    background-position: 50px 50px;
-  }
-}
-@-o-keyframes bg-scrolling-reverse {
-  100% {
-    background-position: 50px 50px;
-  }
-}
-@keyframes bg-scrolling-reverse {
-  100% {
-    background-position: 50px 50px;
-  }
-}
-@-webkit-keyframes bg-scrolling {
-  0% {
-    background-position: 50px 50px;
-  }
-}
-@-moz-keyframes bg-scrolling {
-  0% {
-    background-position: 50px 50px;
-  }
-}
-@-o-keyframes bg-scrolling {
-  0% {
-    background-position: 50px 50px;
-  }
-}
-@keyframes bg-scrolling {
-  0% {
-    background-position: 50px 50px;
-  }
-}
 
 
 
