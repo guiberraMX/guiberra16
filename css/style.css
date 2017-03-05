@@ -137,6 +137,14 @@ ul, ol, dl {list-style-position: outside;}
 }
 
 
+.forma form input{
+    background-color: #2E2F30 !important;
+}
+
+.interestedin{
+    background-color: #2E2F30 !important;
+}
+
 
 .hey small{
     font-size: 36px !important;
@@ -174,7 +182,7 @@ ul, ol, dl {list-style-position: outside;}
 }
 
 .footernegro{
-    background-color: #282727;
+    background-color: #282727 !important;
 }
 
 .bienvenida small{
@@ -1573,7 +1581,7 @@ footer img {max-width: 156px;}
 .footer-social a { margin: 0 25px; display: inline-block;}
 .footer-social a:first-child {margin-left: 0}
 .footer-social a:last-child {margin-right: 0}
-.footer-social a i {color: #575757; }
+.footer-social a i {color: #ffffff; }
 .footer-social a:hover i { color: #868686}
 .social-icon.footer-social a { margin: 0 8px; }
 .social-icon.footer-social a:hover i { color:#fff}
