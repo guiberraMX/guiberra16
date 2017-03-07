@@ -136,6 +136,10 @@ ul, ol, dl {list-style-position: outside;}
     font-size: 100px !important;
 }
 
+.niveldos{
+    margin-top: 100px !important;
+}
+
 
 .forma form input{
     background-color: #2E2F30 !important;
