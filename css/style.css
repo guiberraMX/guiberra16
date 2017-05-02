@@ -288,6 +288,9 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .deep-orange-text{ color:#d66e4a !important}
 .deep-red-text{ color:#e75e50 !important}
 .black-text{ color:#000 !important}
+
+.black-text-c1{ color:#c1c1c1 !important}
+
 .yellow-text{ color:#fdd947 !important}
 .fast-yellow-text{ color:#fdd947 !important}
 .deep-red-text{ color:#b30000 !important}
@@ -941,7 +944,7 @@ nav.navbar-height.shrink {height: 50px !important;}
 nav.sidebar-nav .container { vertical-align: top; padding:60px 40px }
 .sidebar-nav .navbar-nav li {width: 100%; padding: 15px 0; border-bottom: 1px solid rgba(0,0,0,.1); margin: 0}
 .sidebar-nav .navbar-nav li:last-child {border-bottom: none}
-.sidebar-nav .navbar-nav li a {color: #000 !important; padding: 0 0 0 15px !important; font-weight: 600; border-bottom: none}
+.sidebar-nav .navbar-nav li a {color: #c1c1c1 !important; padding: 0 0 0 15px !important; font-weight: 600; border-bottom: none}
 .sidebar-nav .navbar-nav li a:before { content: ""; left: -1px; position: absolute; top: 9px; border-bottom: 0px solid #ef106e; width: 6px; transition-duration: .2s; -moz-transition-duration: .2s; -webkit-transition-duration: .2s; -o-transition-duration: .2s;}
 .sidebar-nav .navbar-nav li a:hover:before, .sidebar-nav .navbar-nav li.active a:before {width: 130px; border-bottom: 0px solid #ef106e;}
 .sidebar-wrapper {padding-left:250px }
