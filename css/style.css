@@ -126,6 +126,17 @@ ul, ol, dl {list-style-position: outside;}
     margin-top: 110px !important;
 }
 
+.git p  {
+    font-family: 'Poppins' !important;
+    text-align: justify;
+    
+
+}
+
+.git p a{
+    color: #c1c1c1 !important;
+}
+
 .exp{
     margin-right: 4px !important;
 }
