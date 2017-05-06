@@ -172,6 +172,12 @@ ul, ol, dl {list-style-position: outside;}
     line-height: 77px !important;
 }
 
+.interior{
+    font-size: 3em !important;
+    font-family: 'Bungee', cursive;
+
+}
+
 #experiencia{
     margin-top: -133px !important;
     
