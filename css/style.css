@@ -213,6 +213,10 @@ ul, ol, dl {list-style-position: outside;}
 }
 
 
+.interiordark{
+    background-color: #282727 !important;
+}
+
 
 #particles
 {   
@@ -541,6 +545,9 @@ i { color: #9a9a9a; margin:0}
 
 .parallax-fix{ position: relative; background-size: cover !important; overflow: hidden; background-position: center center; background-repeat: no-repeat !important; transition-duration: .2s; -moz-transition-duration: .2s; -webkit-transition-duration: .2s; -o-transition-duration: .2s; transition-timing-function: ease-in; -moz-transition-timing-function: ease-in; -webkit-transition-timing-function: ease-in; -o-transition-timing-function: ease-in; background-attachment: fixed !important }
 .fix-background{ position: relative;  background-size: cover !important; -webkit-animation-duration: 0s;  -webkit-animation-fill-mode: none; overflow: hidden; background-position: center center; background-repeat: no-repeat !important; background-attachment: fixed !important}
+.fix-background3{ background-image: url("../images/book/toro3.png") position: relative;  background-size: cover !important; -webkit-animation-duration: 0s;  -webkit-animation-fill-mode: none; overflow: hidden; background-position: center center; background-repeat: no-repeat !important; background-attachment: fixed !important}
+
+
 .cover-background{ position: relative; background-size: cover !important; overflow: hidden; background-position: center center !important; background-repeat: no-repeat !important;}
 .background-size-inherit {background-size: inherit !important}
 .background-attachment-inherit {background-attachment: inherit !important}
