@@ -141,6 +141,11 @@ ul, ol, dl {list-style-position: outside;}
     margin-right: 4px !important;
 }
 
+.hrdark{
+    color: #000 !important;
+    border-top: 1px solid #000 !important;
+}
+
 
 .hey{
     font-family: 'Bungee', cursive;
@@ -151,6 +156,9 @@ ul, ol, dl {list-style-position: outside;}
     margin-top: 100px !important;
 }
 
+.booktitle{
+    font-size: 2em !important;
+}
 
 .forma form input{
     background-color: #2E2F30 !important;
