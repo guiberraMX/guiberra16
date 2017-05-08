@@ -1621,7 +1621,7 @@ footer img {max-width: 156px;}
 .footer-social a:first-child {margin-left: 0}
 .footer-social a:last-child {margin-right: 0}
 .footer-social a i {color: #ffffff; }
-.footer-social a:hover i { color: #868686}
+.footer-social a:hover i { color: #f1f1f1;}
 .social-icon.footer-social a { margin: 0 8px; }
 .social-icon.footer-social a:hover i { color:#fff}
 
