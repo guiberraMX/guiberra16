@@ -1747,7 +1747,7 @@ footer img {max-width: 156px;}
 .skills{ padding: 5px 15px;}
 .employment-year {letter-spacing: 2px !important; padding: 2px 13px; font-size: 11px; margin: 10px 0 15px 0; display: inline-block; position: relative; font-weight: 700;}
 .employment-year:after {border-bottom: 1px solid #000; content: ""; position: absolute; width: 210%; top: 13px}
-.ajax-popup-title-text {background: #ef106e; padding: 15px 25px;}
+.ajax-popup-title-text {background: #E5BB0A; padding: 15px 25px;}
 .personal-slider-content {position: absolute; left: 0; right: 0;}
 .personal-slider-content span {z-index: 999; display: table;} 
 .personal-slider-content .slider-typography {z-index: inherit !important}
