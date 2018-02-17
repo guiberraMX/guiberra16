@@ -230,6 +230,11 @@ ul, ol, dl {list-style-position: outside;}
 }
 
 
+.interiorblanco{
+    background-color: #fff !important;
+}
+
+
 #particles
 {   
     height: 100%;
