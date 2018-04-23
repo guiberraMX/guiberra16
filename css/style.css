@@ -1631,10 +1631,21 @@ footer img {max-width: 156px;}
 .footer-bottom {padding: 30px 0}
 .footer-top {padding: 80px 0}
 .footer-social i {  font-size: 22px;}
+.footer-social2 i {  font-size: 22px;}
+
 .footer-social a { margin: 0 25px; display: inline-block;}
+.footer-social2 a { margin: 0 25px; display: inline-block;}
+
 .footer-social a:first-child {margin-left: 0}
+.footer-social2 a:first-child {margin-left: 0}
+
 .footer-social a:last-child {margin-right: 0}
+.footer-social2 a:last-child {margin-right: 0}
+
 .footer-social a i {color: #ffffff; }
+.footer-social2 a i {color: #000; }
+
+
 .footer-social a:hover i { color: #f1f1f1;}
 .social-icon.footer-social a { margin: 0 8px; }
 .social-icon.footer-social a:hover i { color:#fff}
