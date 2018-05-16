@@ -186,6 +186,12 @@ ul, ol, dl {list-style-position: outside;}
     line-height: 43px !important;
 }
 
+.hey6{
+    font-family: 'Bungee', cursive;
+    font-size: 42.0px !important;
+    line-height: 43px !important;
+}
+
 .interior{
     font-size: 3em !important;
     font-family: 'Bungee', cursive;
@@ -670,6 +676,8 @@ i { color: #9a9a9a; margin:0}
 .padding-sixteen{ padding:8.5% !important}
 .padding-seventeen{ padding:9% !important}
 .guiberramx{ color:#e51137 !important; }
+.guiberrabg { background-color :#e51137 !important; }
+.guiberradbg { background-color :#96112a !important; }
 .padding-eighteen{ padding:9.5% !important}
 .padding-nineteen{ padding:10% !important}
 .padding-twenty{ padding:10.5% !important}
@@ -1610,7 +1618,7 @@ input.no-border, input.no-border:focus, select.no-border, select.no-border:focus
 /* alert - style 1 */
 .alert-style1 .alert { background-color: transparent; border-top:none; border-right:none; border-left:none; border-bottom-width:3px !important; border-radius:0; padding: 25px; font-size: 20px; font-weight:100; line-height:30px}
 .alert-style1 .alert span {width:70%; display: table}
-.alert-style1 .alert i {background-color: transparent; float: left; width:70px; font-size: 35px; line-height: 60px; color: #aeaeae}
+.alert-style1 .alert a img {background-color: transparent; float: left; width:66.6px; font-size: 35px; line-height: 60px; color: #aeaeae; margin-left: 33px; margin-right: 33px;}
 .alert-style1 .alert:hover {border-bottom-width:6px !important; color: #4d4d4d }
 
 /* alert - style 2 */
