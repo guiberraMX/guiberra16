@@ -361,6 +361,16 @@
 }
 
 @media (max-width: 991px) {
+
+
+    .navbar-brand img {
+    position: relative;
+    top: -17px;
+    z-index: 2;
+    max-width: 56px;
+    margin-left: 5px !important;
+}
+
     /* personal */
     .footer-social a { margin: 0 13px;}
     .personal .container { width: 460px !important;}
@@ -735,6 +745,9 @@
 }
 
 @media (max-width: 767px) {
+
+
+
 
 
 
@@ -1125,9 +1138,17 @@
     
 
     .navbar-header a img{
-    width: 50px !important; 
+    
     margin-left: -9px !important;
     margin-top: -5px !important;
+}
+
+    .navbar-brand img {
+    position: relative;
+    top: -12px;
+    z-index: 2;
+    max-width: 57px;
+    margin-left: 5px !important;
 }
 
 
@@ -1137,8 +1158,11 @@
     /* blog */
 
 
+
+   
+
 .navbar-header a img{
-    width: 50px !important; 
+     
     margin-left: -9px !important;
     margin-top: -5px !important;
 }
@@ -1190,7 +1214,15 @@
     .attending-main { height: 510px;} 
     .attending-main .img-border-medium {height: 480px;}
     .center-logo-header .navbar-brand img {max-width: 245px; top: -14px;}
-    .navbar-brand img{max-width: 30px !important;}
+    .navbar-brand img{max-width: 48px !important;}
+
+    .navbar-brand img {
+    position: relative;
+    top: -7.9px;
+    z-index: 2;
+    
+    margin-left: 5px !important;
+}
     
     /* travel */
     .ajax-popup-title {min-height: 400px !important;}
@@ -1215,7 +1247,7 @@
 
 
     .navbar-header a img{
-    width: 50px !important; 
+    
     margin-left: -9px !important;
     margin-top: -5px !important;
 }
