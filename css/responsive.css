@@ -363,6 +363,11 @@
 @media (max-width: 991px) {
 
 
+    .margen-responsive{
+        margin-top: 66px !important;
+    }
+
+
     .navbar-brand img {
     position: relative;
     top: -17px;
@@ -753,7 +758,9 @@
 
 
 
-
+    .no-padding-left {
+        display: none !important;
+    }
 
 
     .xs-center-col{ float:none !important; margin-left:auto !important; margin-right:auto !important}
