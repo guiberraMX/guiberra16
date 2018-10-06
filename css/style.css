@@ -1937,3 +1937,6 @@ footer img {max-width: 156px;}
     .fix-background-webkit{ background-attachment: scroll !important;}
     .no-transition-ipad *{ transition-timing-function: none; -moz-transition-timing-function: none; -webkit-transition-timing-function: none; -o-transition-timing-function: none; transition-duration: 0s; -moz-transition-duration: 0s; -webkit-transition-duration: 0s; -o-transition-duration: 0s; }
 }
+
+
+
