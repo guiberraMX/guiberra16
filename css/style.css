@@ -66,6 +66,29 @@ Table of contents
 
 
 
+.bobody {
+    
+  background-color: #b61b1b;
+  animation: bg-color 10s infinite;
+  -webkit-animation: bg-color 10s infinite;
+}
+
+@-webkit-keyframes bg-color {
+  0% { background-color: #cc5d25; }
+  33% { background-color: #b61b1b; }
+  66% { background-color: #ff7f11; }
+  
+  100% { background-color: #cc5d25; }
+}
+
+@keyframes bg-color {
+   0% { background-color: #cc5d25; }
+  33% { background-color: #b61b1b; }
+  66% { background-color: #ff7f11; }
+  
+  100% { background-color: #cc5d25; }
+}
+
 
 
 
