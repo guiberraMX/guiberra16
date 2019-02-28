@@ -141,6 +141,11 @@ ul, ol, dl {list-style-position: outside;}
 
 /* heading */
 
+
+.mi-rojo-claro{
+  color-background: #C41839!important; 
+}
+
 .tool{
     margin-top: 0px !important;
 }
@@ -160,7 +165,13 @@ ul, ol, dl {list-style-position: outside;}
 
 }
 
+.margen-extra{
+  margin-top: 4px!important;
+}
 
+.espacio-letra{
+  letter-spacing: 1pt !important;
+}
 
 .git p a{
     color: #c1c1c1 !important;
@@ -260,6 +271,7 @@ ul, ol, dl {list-style-position: outside;}
  
 
 }
+
 
 
 .interiordark{
@@ -565,9 +577,9 @@ i { color: #9a9a9a; margin:0}
 .bg-fast-blue-green-gradiant { background: #00efff; background: -moz-linear-gradient(-45deg, #00efff 0%, #00ff97 100%); background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#00efff), color-stop(100%,#00ff97)); background: -webkit-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: -o-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: -ms-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: linear-gradient(135deg, #00efff 0%,#00ff97 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00efff', endColorstr='#00ff97',GradientType=1 ); }
 .bg-crimson-red { background: #e31d3b !important}
 .bg-deep-green {background: #1acd7b !important; }
-.bg-deep-green2{background: #7ebaa1 !important;}
+.bg-deep-green2{background: #C41839 !important;}
 .bg-deep-green-dark{background: #04b966 !important;}
-.bg-deep-green-dark2{background: #6ad5a7 !important;}
+.bg-deep-green-dark2{background: #C41839 !important;}
 .bg-deep-green-dark3{background: #62a486 !important;}
 .bg-deep-blue {background: #2283d4 !important; }
 .bg-transparent-deep-blue{ background: rgba(17,116,198,.9) !important}
