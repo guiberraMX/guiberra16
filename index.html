@@ -47,6 +47,9 @@
        <script type="text/javascript" src="js/astronomy-init.js"></script>
        <script class="cssdeck" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
 
+       <script type="text/javascript" src="js/instafeed.min.js"></script>
+
+
         <!--[if IE]>
             <script src="js/html5shiv.js"></script>
         <![endif]-->
@@ -120,8 +123,7 @@
                                 <li><a href="#proyectos" class="section-link"> Proyectos</a></li>
                                 <li><a href="#experiencia" class="section-link">Habilidades</a></li>
                                 <li><a href="#trabajo" class="section-link">¡Trabajemos juntos!</a></li>
-                                
-                                <li><a href="https://guiberra.mx/book.html" class="section-link">Book</a></li>
+                                <li><a href="book.html" class="section-link">Book</a></li>
                                 <li><a href="http://blog.guiberra.mx" target="blank" class="section-link">Blog</a></li>
                                 <li><a href="http://blog.thinkersinmotion.mx/author/guiberramx/" target="blank" class="section-link">Thinkers</a></li>
                                                                
@@ -370,6 +372,13 @@
 
                 </div>
             </section>
+
+
+
+
+
+
+
             <!-- end skills section -->
             <!-- counter section -->
             <section class="wow responsive-hide fadeIn bg-dark-gray no-padding-tb xs-padding-fifteen xs-no-padding-lr">
@@ -429,6 +438,13 @@
             <!-- end counter section -->
 
 
+
+
+           
+
+
+
+
             <section id="home" class="wow fadeIn full-screen no-padding position-relative">
                 <div class="container full-screen personal-slider-content">
                             <div class="slider-typography text-left">
@@ -460,6 +476,8 @@
                 </div>
                 
             </section>
+
+
 
 
             <!-- education section -->
@@ -545,6 +563,19 @@
                         </div>
                     </div>
 
+
+
+                        <script type="text/javascript">
+                            var userFeed = new Instafeed({
+                                get: 'guiberramx',
+                                userId: '7540546069',
+                                accessToken: '7540546069.1677ed0.926a4e1bc94248a59d64b759c44a3cf9'
+                            });
+                            userFeed.run();
+                        </script>
+
+                    <div id="instafeed"></div>
+
                      <!-- end education sect
                     <div class="row">
                         <div class="col-md-10 col-lg-8 col-sm-12">
@@ -557,6 +588,9 @@
                     </div>
                     ion -->
                 </div>
+
+
+
             </section>
            
             <!-- employment section -->
