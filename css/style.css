@@ -1516,7 +1516,7 @@ ul.list-line li span {min-width:130px; display:inline-block}
 .blog-post-style4 .post-date { font-size: 80px; letter-spacing: -4px; line-height: 80px}
 .blog-post-style4 .post-date-month {position: relative; padding-right: 30px; font-size: 12px;}
 .blog-post-style4 article:hover .post-date-month {padding-right: 50px}
-.blog-post-style4 .post-date-month:after {  border-bottom: 1px solid #00ff97; bottom: -6px; content: ""; left: 0; position: absolute; width: 100%; }
+.blog-post-style4 .post-date-month:after {  border-bottom: 1px solid #C41839; bottom: -6px; content: ""; left: 0; position: absolute; width: 100%; }
 .blog-post-style4 a {color: #fff}
 .blog-post-style4 .text-small {opacity: 0.4}
 
